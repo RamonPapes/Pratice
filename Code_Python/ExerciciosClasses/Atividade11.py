@@ -22,6 +22,4 @@ def main():
     carro.andar(100)
     carro.getGasolina()
 
-
-    print("Test_branch")
 main()
